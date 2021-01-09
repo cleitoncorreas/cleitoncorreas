@@ -34,4 +34,4 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 ![git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0769AD?style=for-the-badge&logo=jira&logoColor=white)
-![vscode](https://img.shields.io/badge/VSCode-0769AD?style=for-the-badge&logo=vscode&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-0769AD?style=for-the-badge&logo=visualstudiocode&logoColor=white)
