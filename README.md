@@ -29,7 +29,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![native](https://img.shields.io/badge/NativeScript-0769AD?style=for-the-badge&logo=native-script&logoColor=white)
+![native](https://img.shields.io/badge/NativeScript-0769AD?style=for-the-badge&logo=nativescript&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-0095D5?&style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
