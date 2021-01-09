@@ -2,7 +2,7 @@
 
 **Cleiton Corrêa**
 
-_Analista Técnico de Suporte em TI na Legião da Boa Vontade Programador Pleno Ruby on Rails e PHP Laravel na Freelancer_
+_Programador Ruby on Rails, PHP Laravel, Angular e NativeScript_
 
 **⚡ Tecnologias**
 
