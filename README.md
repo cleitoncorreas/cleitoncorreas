@@ -1,6 +1,6 @@
-### Hello Word! 👋
+**Hello Word!** 👋
 
-**Cleiton Corrêa**
+### Cleiton Corrêa
 
 _Programador Ruby on Rails, PHP Laravel, Angular e NativeScript_
 
