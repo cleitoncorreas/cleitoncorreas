@@ -1,5 +1,11 @@
 **Hello Word!** 👋
 
+<div>
+  <a href="https://github.com/cleitoncorreas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=gruvbox"/>
+<div>
+
 ### Cleiton Corrêa
 
 _Programador Ruby on Rails, PHP Laravel, Angular e NativeScript_
