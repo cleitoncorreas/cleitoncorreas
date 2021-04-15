@@ -47,11 +47,12 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 [![delphi](https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=delphi&logoColor=white)](https://github.com/cleitoncorreas)
 
 <h3 align="left">📊 Overview Heroku</h3>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=gruvbox" alt="cleitoncorreas" />
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleitoncorreas&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-bg=true" alt="cleitoncorreas" /></a> 
 </p>
 
 <h3 align="left">🏆 Github Profile Trophy</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleitoncorreas&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-bg=true" alt="cleitoncorreas" /></a> 
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=gruvbox" alt="cleitoncorreas" />
 </p>
