@@ -54,11 +54,13 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
   </a>
 </div>
 
+<!--
 **🏆 Github Profile Trophy**
-
+-->
+<!--
 <div>
   <a href="https://github.com/cleitoncorreas">
     <img src="https://github-profile-trophy.vercel.app/?username=cleitoncorreas&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-bg=true" alt="cleitoncorreas"/>
   </a>
 </div>
-
+-->
