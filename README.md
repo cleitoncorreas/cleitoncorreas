@@ -39,6 +39,8 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/cleitoncorreas)
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/cleitoncorreas)
 [![native](https://img.shields.io/badge/NativeScript-0769AD?style=for-the-badge&logo=nativescript&logoColor=white)](https://github.com/cleitoncorreas)
+[![react](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)](https://github.com/cleitoncorreas)
+[![reactnative](https://img.shields.io/badge/ReactNative-0769AD?style=for-the-badge&logo=reactnative&logoColor=white)](https://github.com/cleitoncorreas)
 [![docker](https://img.shields.io/badge/Docker-0095D5?&style=for-the-badge&logo=docker&logoColor=white)](https://github.com/cleitoncorreas)
 [![git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)](https://github.com/cleitoncorreas)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleitoncorreas)
