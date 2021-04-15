@@ -49,12 +49,14 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 **📊 Overview Heroku**
 
 <div>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=gruvbox" alt="cleitoncorreas" />
+  <a href="https://github.com/cleitoncorreas">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=gruvbox" alt="cleitoncorreas"/>
 </div>
 
 **🏆 Github Profile Trophy**
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleitoncorreas&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-bg=true" alt="cleitoncorreas" /></a> 
+  <a href="https://github.com/cleitoncorreas">
+  <img src="https://github-profile-trophy.vercel.app/?username=cleitoncorreas&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-bg=true" alt="cleitoncorreas"/>
 </div>
 
