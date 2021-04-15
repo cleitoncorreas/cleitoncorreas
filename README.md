@@ -16,7 +16,7 @@ _Programador Ruby on Rails, PHP Laravel, Angular e NativeScript_
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cleitoncorreas)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAXclhaOJoiDfus5XfMoVZA)
 
-**⚡ Skills**
+**🚀 Skills**
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
@@ -46,15 +46,15 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 [![vscode](https://img.shields.io/badge/VSCode-0769AD?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/cleitoncorreas)
 [![delphi](https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=delphi&logoColor=white)](https://github.com/cleitoncorreas)
 
-<h3 align="left">📊 Overview Heroku</h3>
+**📊 Overview Heroku**
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=gruvbox" alt="cleitoncorreas" />
-</p>
+<div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=gruvbox" alt="cleitoncorreas" />
+</div>
 
-<h3 align="left">🏆 Github Profile Trophy</h3>
+**🏆 Github Profile Trophy**
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleitoncorreas&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-bg=true" alt="cleitoncorreas" /></a> 
-</p>
+</div>
 
