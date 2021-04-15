@@ -8,7 +8,7 @@
 
 ### Cleiton Corrêa
 
-_Programador Ruby on Rails, PHP Laravel, Angular e NativeScript_
+_Programador Ruby on Rails, PHP Laravel, Angular, React, React Native e NativeScript_
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitoncorreas/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleitoncorreas.dev/)
