@@ -54,11 +54,11 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 **📊 Overview Heroku**
 
-<div>
+<p align="center">
   <a href="https://github.com/cleitoncorreas">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=gruvbox" alt="cleitoncorreas"/>
   </a>
-</div>
+</p>
 
 <!--
 **🏆 Github Profile Trophy**
