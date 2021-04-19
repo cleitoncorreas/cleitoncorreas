@@ -6,9 +6,8 @@
 
 <div>
   <a href="https://github.com/cleitoncorreas">
-    <img width="520px" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=gruvbox"/>
-    <img width="425px" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=gruvbox"/>
-  </a>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=gruvbox"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=gruvbox"/>
 <div>
 
 ### Cleiton Corrêa
