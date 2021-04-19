@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://github.com/cleitoncorreas/cleitoncorreas/blob/88862d2e831b45a74cc76bd8d6db9a60db89e0a7/Perfil/Capa.png"/>
+</p>
+
 **Hello Word!** 👋
 
-<div>
+<p align="center">
   <a href="https://github.com/cleitoncorreas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=gruvbox"/>
-<div>
+  <img width="520px" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=gruvbox"/>
+  <img width="425px" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=gruvbox"/>
+<p>
 
 ### Cleiton Corrêa
 
