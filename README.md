@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/cleitoncorreas">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=gruvbox"/>&nbsp&nbsp
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=gruvbox"/>&nbsp&nbsp&nbsp&nbsp
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=gruvbox"/>
 </p>
 
