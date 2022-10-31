@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cleitoncorreas/cleitoncorreas/blob/88862d2e831b45a74cc76bd8d6db9a60db89e0a7/Perfil/Capa.png"/>
+  <img src="https://github.com/cleitoncorreas/cleitoncorreas/blob/dd072763c9eb348701e24ec471986f10984125d9/Perfil/Capa.png"/>
 </p>
 
 **Hello Word!** 👋
