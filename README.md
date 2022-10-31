@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/cleitoncorreas">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=dracula"/>&nbsp&nbsp&nbsp&nbsp
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=cleitoncorreas&show_icons=true&theme=jolly"/>&nbsp&nbsp&nbsp&nbsp
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncorreas&layout=compact&langs_count=8&theme=jolly"/>
 </p>
 
 ### Cleiton Corrêa
@@ -56,7 +56,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 <p align="center">
   <a href="https://github.com/cleitoncorreas">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=dracula" alt="cleitoncorreas"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitoncorreas&layout=compact&theme=jolly" alt="cleitoncorreas"/>
   </a>
 </p>
 
